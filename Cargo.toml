@@ -1,0 +1,18 @@
+[package]
+authors = ["Daniel Egger <daniel@eggers-club.de>"]
+categories = [
+    "embedded",
+    "hardware-support",
+    "no-std",
+]
+description = "A platform agnostic driver to decode a DCF77 radio clock signal"
+documentation = "https://docs.rs/dcf77"
+keywords = [
+    "embedded-hal-driver",
+    "radio",
+    "clock",
+]
+license = "0BSD"
+name = "dcf77"
+repository = "https://github.com/therealprof/dcf77"
+version = "0.1.0"
